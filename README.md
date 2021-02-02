@@ -1,0 +1,1 @@
+Curso "JavaScript: programando a orientação a objetos" que realizei na Alura, cujo o objetivo era criar um sistema que permite o cadastro de clientes e contas-correntes, além das operações bancárias mais comuns.
